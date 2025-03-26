@@ -1,0 +1,51 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.topic{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+.receipe{
+    text-align: center;
+    margin-top: 10px;
+}
+.receipe__1,.receipe__2,.receipe__3{
+    border: solid black;
+    display: inline-block;
+    vertical-align: top;
+    height: 300px;
+    width: 200px;
+}
+.receipe__1 button,.receipe__2 button,.receipe__3 button{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    margin-top: 10px; 
+}
+.contact{
+    margin-top: 10px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-bottom: 20px;
+}
+.contact__button{
+    background-color: yellow;
+    color:black;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 0;
+}
+.contact__head{
+    padding: 10px;
+}
+.contact__table{
+    display: inline-block;
+}
